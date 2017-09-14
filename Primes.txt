@@ -10,4 +10,7 @@ Github app..
 
 
 new branch edit
+
+branch edit web!
 new branch edit 2: lokalt i Git bash
+
