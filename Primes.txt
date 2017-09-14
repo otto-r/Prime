@@ -8,6 +8,7 @@ Conflicted areaa!
 GitHub app test
 Github app..
 
+New test int the Github addon in VS.
 
 new branch edit
 
